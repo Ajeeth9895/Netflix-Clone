@@ -3,6 +3,7 @@
   publish = "/build"
   base ="/"
 
+
   
 [[redirects]]
 from = "/*"
